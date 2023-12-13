@@ -68,7 +68,7 @@
   
 |투자문의 작성
 |:------:
-|<img src="https://github.com/fun1ty/three.js/assets/116661333/03896ef9-97d3-4609-b6b8-964f61b5c332" width="250" height="550"/>
+|<img src="https://github.com/fun1ty/letsPark/assets/116661333/e300cfab-1dcc-4de5-98e9-96033c4aa548"/>
 <br/>
 
 
