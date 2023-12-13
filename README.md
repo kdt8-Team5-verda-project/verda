@@ -64,7 +64,33 @@
 
 ## 주요기능
 
-- 투자자는 투자문의를 작성할 수 있습니다.
+<table >
+  <tbody>
+    <th>투자문의 작성</th>
+    <tr>
+      <td>
+        <img src="https://github.com/fun1ty/three.js/assets/116661333/03896ef9-97d3-4609-b6b8-964f61b5c332" width=250px />
+      </td>
+    </tr>
+    <tr>
+      <td >투자자는 투자문의를 작성할 수 있습니다.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table >
+  <tbody>
+    <th>투자문의 작성</th>
+    <tr>
+      <td>
+        <img src="https://github.com/fun1ty/three.js/assets/116661333/03896ef9-97d3-4609-b6b8-964f61b5c332" width=250px />
+      </td>
+    </tr>
+    <tr>
+      <td >투자자는 펀드매니저에게 온 제안서를 확인 <br/>할 수 있습니다.<br/> (총 3개의 제안서만 받을 수 있음)</td>
+    </tr>
+  </tbody>
+</table>
 
 |투자문의 작성
 |:------:
