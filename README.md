@@ -83,7 +83,7 @@
   
 |투자문의 확인
 |:------:
-|<img src="https://github.com/fun1ty/three.js/assets/116661333/7e5d49c8-4d64-4ad9-b277-02353660bc21" width="250" height="450"/>
+|<img src="https://kimmr-fun1ty.vercel.app/_next/image?url=%2Fstatic%2Fimages%2F%EB%AC%B4%ED%95%9C%EC%8A%A4%ED%81%AC%EB%A1%A4.gif&w=828&q=75" />
 <br/>
 
 - 투자자와 펀드매니저는 서로 채팅을 할 수 있습니다.
