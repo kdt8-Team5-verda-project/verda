@@ -68,7 +68,7 @@
   
 |투자문의 작성
 |:------:
-|<img src="https://github.com/fun1ty/letsPark/assets/116661333/e300cfab-1dcc-4de5-98e9-96033c4aa548"/>
+|<img src="https://kimmr-fun1ty.vercel.app/_next/image?url=%2Fstatic%2Fimages%2F%ED%88%AC%EC%9E%90%EB%AC%B8%EC%9D%98%EC%9E%91%EC%84%B1.gif&w=640&q=75" width="250" height="550"/>
 <br/>
 
 
@@ -76,7 +76,7 @@
   
 |제안서 확인
 |:------:
-|<img src="https://github.com/fun1ty/three.js/assets/116661333/660dfb1f-c9e0-496c-8e94-5ec4f108d765" width="250" height="530"/>
+|<img src="https://kimmr-fun1ty.vercel.app/_next/image?url=%2Fstatic%2Fimages%2F%EC%A0%9C%EC%95%88%EC%84%9C%EB%AA%A9%EB%A1%9D.gif&w=640&q=75" width="250" height="550"/>
 <br/>
 
 - 펀드매니저는 고객들의 투자문의를 확인 할 수 있습니다.
@@ -90,7 +90,7 @@
   
 |채팅화면
 |:------:
-|<img src="https://github.com/fun1ty/three.js/assets/116661333/bf8dee1c-3e9a-4088-afb1-c0145e95b71c" width="250" height="530"/>
+|<img src="https://kimmr-fun1ty.vercel.app/_next/image?url=%2Fstatic%2Fimages%2F%EC%A0%9C%EC%95%88%EC%84%9C%EC%9E%91%EC%84%B1.gif&w=640&q=75" width="250" height="530"/>
 <br/>
 
 ## 개발팀 소개
